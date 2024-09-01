@@ -6,6 +6,7 @@
     font-family: 'Spartan', sans-serif;
 }
 
+
 h1{
     font-size: 50px;
     line-height: 64px;
@@ -48,6 +49,7 @@ body{
 
 
 /* header Start */
+
 
 #header{
     display: flex;
